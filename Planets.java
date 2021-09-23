@@ -49,15 +49,3 @@ public enum Planets {
 
 
 
-
-//double earthWeight = 175;
-//double surfaceGravity = Planets.EARTH.surfaceGravity();
-//double mass = earthWeight / surfaceGravity;
-
-//System.out.println(mass);
-
-//for (Planets planet : Planets.values()) {
-//	System.out.println("Your weight on " + planet + " would be " + planet.surfaceWeight(mass));
-//}
-
-
